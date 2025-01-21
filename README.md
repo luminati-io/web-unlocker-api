@@ -269,13 +269,13 @@ Web Unlocker lets you scrape even the most protected websites effortlessly. Key 
    - Automation tools (Puppeteer, Playwright, Selenium)  
 
 2. **Use Scraping Browser**:  
-   For browser-based automation, use Bright Data’s [Scraping Browser](https://docs.brightdata.com/scraping-automation/scraping-browser/introduction).
+   For browser-based automation, use Bright Data’s [Scraping Browser](https://brightdata.com/products/scraping-browser).
 
 3. **Premium Domains**:  
    Access challenging sites with [premium domain](https://docs.brightdata.com/scraping-automation/web-unlocker/features#web-unlocker-api-premium-domains) features.
 
 4. **CAPTCHA Solving**:  
-   Solved automatically, but can be [disabled](https://docs.brightdata.com/scraping-automation/web-unlocker/features#disable-captcha-solving).
+   Solved automatically, but can be [disabled](https://docs.brightdata.com/scraping-automation/web-unlocker/features#disable-captcha-solving). Learn more about Bright Data's [CAPTCHA Solver](https://brightdata.com/products/web-unlocker/captcha-solver).
    
 5. **Custom Headers & Cookies**:  
    Send your own to target specific site versions. [Learn more](https://docs.brightdata.com/scraping-automation/web-unlocker/features#manual-headers-and-cookies).
