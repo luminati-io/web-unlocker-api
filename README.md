@@ -215,14 +215,14 @@ headers["x-unblock-expect"] = '{"element": ".star-wrapper__desc"}'
 headers["x-unblock-expect"] = '{"text": "reviews"}'
 ```
 
-👉 You can find the complete code in [g2_wait.py](https://github.com/triposat/web-unlocker/blob/main/src/g2_wait.py)
+👉 You can find the complete code in [g2_wait.py](https://github.com/luminati-io/web-unlocker/blob/main/src/g2_wait.py)
 
 #### Mobile User-Agent Targeting
 To use mobile user agents instead of desktop ones, append `-ua-mobile` to your username:
 ```python
 username = f"brd-customer-{customer_id}-zone-{zone_name}-ua-mobile"
 ```
-👉 You can find the complete code in [g2_mobile.py](https://github.com/triposat/web-unlocker/blob/main/src/g2_mobile.py)
+👉 You can find the complete code in [g2_mobile.py](https://github.com/luminati-io/web-unlocker/blob/main/src/g2_mobile.py)
 
 #### Geolocation Targeting
 While Web Unlocker automatically selects optimal IP locations, you can specify target locations:
@@ -238,7 +238,7 @@ Enable detailed debugging information by adding the `-debug-full` flag:
 ```python
 username = f"brd-customer-{customer_id}-zone-{zone_name}-debug-full"
 ```
-👉 You can find the complete code in [g2_debug.py](https://github.com/triposat/web-unlocker/blob/main/src/g2_debug.py)
+👉 You can find the complete code in [g2_debug.py](https://github.com/luminati-io/web-unlocker/blob/main/src/g2_debug.py)
 
 #### Success Rate Statistics
 Monitor API success rates for specific domains:
