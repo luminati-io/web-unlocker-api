@@ -1,4 +1,7 @@
 # Web Unlocker API
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
+
 [Web Unlocker](https://brightdata.com/products/web-unlocker) is a powerful scraping API that allows access to any website while bypassing sophisticated bot protections. You can retrieve clean HTML/JSON responses with a single API call without managing complex anti-bot infrastructure.
 
 # Table of Contents
